@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "id": "3",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "4",
+      "imagem": "./assets/image 2.png",
+      "produto": "Game Boy Classic",
+      "preco": "60.00"
+    },
+    {
+      "id": "5",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "6",
+      "imagem": "./assets/image 2.png",
+      "produto": "Game Boy Classic",
+      "preco": "60.00"
+    },
+    {
+      "id": "7",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "8",
+      "imagem": "./assets/image 2.png",
+      "produto": "Game Boy Classic",
+      "preco": "60.00"
+    },
+    {
+      "id": "9",
+      "imagem": "./assets/image 1.png",
+      "produto": "StormTropper",
+      "preco": "60.00"
+    },
+    {
+      "id": "d7f5",
+      "imagem": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8OTExMTU5fGltYWdlL3BuZ3xoMzMvaGMyLzEyNzQ0OTYxMzI3MTM0LnBuZ3xmNjQ2MzJhMDAzMTJmOWE4MGQ3YTc5ZjExMTk4YzI2M2IxZmFiYmQ1ZTg5YTFjODYxZTU0ZDdiMmVmODhjNjdl/lenovo-laptops-ideapad-1i-gen-7-15-intel-gallery-1.png",
+      "produto": "IdeaPad 1i 15\" Intel",
+      "preco": "1.979,99"
+    },
+    {
+      "id": "dd44",
+      "imagem": "https://p4-ofp.static.pub//fes/cms/2023/12/11/9k1a7ti59witxn3su89js795ccpab5602044.png",
+      "produto": "Mouse para jogos Lenovo M210 RGB",
+      "preco": "134,99"
+    },
+    {
+      "id": "4061",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712433-MLB74216345940_012024-O.webp",
+      "produto": "Pc Gamer Completo, Intel I7",
+      "preco": "3.187,90"
+    }
+  ]
+}
