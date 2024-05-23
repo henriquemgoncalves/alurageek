@@ -1,12 +1,12 @@
 async function listaCards (){
-    const conexao = await fetch("http://localhost:3000/cards");
+    const conexao = await fetch("https://664e8bf3fafad45dfae05e33.mockapi.io/db");
     const conexaoConvertida = await conexao.json();
     
     return conexaoConvertida;
 }
 
 async function criaCard(imagem, produto, preco){
-    const conexao = await fetch("http://localhost:3000/cards",{
+    const conexao = await fetch("https://664e8bf3fafad45dfae05e33.mockapi.io/db",{
         method: "POST",
         headers: {
             "Content-Type": "application/json"

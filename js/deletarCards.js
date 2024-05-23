@@ -26,13 +26,20 @@ async function deletarCard(produto) {
 
      } 
      
-     const url = `http://localhost:3000/cards/${card.id}`; 
-     const response = await fetch(url, { method: 'DELETE' }); 
-     if (!response.ok) { 
-        throw new Error(`Erro ao deletar o card: ${response.statusText}`); 
-    } 
-    
-    return response.json(); 
-} 
+     const url = `https://664e8bf3fafad45dfae05e33.mockapi.io/db/`; 
+     const response = fetch(url, {
+       method: 'DELETE',
+     }).then(res => {
+       if (res.ok) {
+           return res.json();
+       }
+       
+     }).then(task => {
+       
+     }).catch(error => {
+       
+     })
+
+    }
 
 export default deletarCard;
